@@ -39,8 +39,8 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/TechEnginHER/serpapi-to-airtable-automation.git
-cd serpapi-to-airtable-automation
+git clone https://github.com/CloudDev777/Serpapi_to_Airtable_Automation.git
+cd Serpapi_to_Airtable_Automation
 ```
 2. Install dependencies
 
