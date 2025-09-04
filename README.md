@@ -39,7 +39,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/CloudDev777/Serpapi_to_Airtable_Automation.git
+git clone https://github.com/Maksym-TopDev/Serpapi_to_Airtable_Automation.git
 cd Serpapi_to_Airtable_Automation
 ```
 2. Install dependencies
